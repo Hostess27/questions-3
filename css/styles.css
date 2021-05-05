@@ -1,8 +1,16 @@
-.list {
-    padding-left: 0;
-    list-style: none;
-    color: green;
+.box {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
 }
-.list-link {
-    color: green;
+
+.red {
+    background-color: rgb(255, 0, 0);
+}
+
+.green {
+    background-color: rgb(0, 255, 0);
+}
+
+.blue {
+    background-color: rgb(0, 0, 255);
 }
