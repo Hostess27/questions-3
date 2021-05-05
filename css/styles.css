@@ -1,5 +1,2 @@
-* {
-    color: red;
-  }
-li{list-style: none;
-color: green;}  
+*{ margin: 0;
+padding: 0;}
